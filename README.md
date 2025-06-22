@@ -78,11 +78,3 @@ This project presents a fully interactive **Power BI dashboard** developed for *
 
 ---
 
-## 🧩 Folder Structure
-
-```bash
-📁 Global-Superstore-PowerBI/
-├── 📄 Problem_Statement_v1.pdf     # Project background and business goals
-├── 📊 Global Superstore Command Center.pbix
-├── 📄 README.md                    # You're reading it!
-
